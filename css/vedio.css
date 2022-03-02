@@ -1,0 +1,10 @@
+@import url('reset.css');
+
+body {
+    font-family: 'Noto Serif JP', Arial;
+    background-image: url('../img/bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
